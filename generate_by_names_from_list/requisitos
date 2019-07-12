@@ -1,0 +1,26 @@
+15-09-2014
+
+vai precisar haver um
+arquivo com todos os nomes dos laudos j� listados
+
+o python vai ler esses nomes salvar cada um como
+nome de um arquivo (.doc ou .pdf, isso ainda vai ser decidido)
+
+ainda n�o tenho tecnologia para criar um pdf com texto dentro,
+portanto estou pensando em criar um .doc, e depois usar um programa para
+realizar a convers�o desses docs para pdfs
+
+.........................
+PROGRAMA COM LA�O DE REPETI��O
+
+ler arquivo dos laudos
+
+quant_laudos = tamanho dos laudos
+vetorlaudos = []
+
+para indice menor que quant_laudos
+	arquivo = abre (caminho\caminho\vetorlaudos[indice].doc, escreve)
+	arquivo.fecha()
+	indice = indice + 1
+
+........................
