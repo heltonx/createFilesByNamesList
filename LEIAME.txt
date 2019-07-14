@@ -1,0 +1,1 @@
+código testado e aprovado no python 2.7
