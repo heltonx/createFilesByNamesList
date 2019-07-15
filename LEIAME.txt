@@ -1,7 +1,11 @@
 código testado e aprovado no python 2.7
 
-Historico: "colocar a necessidade que fez surgir os dois scripts", no final de 2015
+Historico: "colocar a necessidade que fez surgir os dois scripts", no final de 2014
+Antes: como era o process
 
+Primeiro foi criado o generator, depois o all in one.
+
+===============
 
 generate_by_names_from_list contém o a pasta generador e os arquivos do kit
 que pode ser customizado. Basicamente, pega os nomes da lista no arquivo lista,
@@ -15,6 +19,9 @@ O Script pode ser alterado, para ao inves de pdf, gerar outros formatos de arwui
 arquivos com nomes diferentes - não é um script para alteração de conteudo de arquivos.
 
 
-
 all_in_one: une todos os arquivos txt em um unico arquivo. Objeitvo é facilitar, para nao ser
 necessario dar ctrl C em cada arquivo manualmente e ctrl V no arwuivo de destino, manualmente.
+Contem a pasta all, com arquivos standard, apenas para um teste inicial. Nesta pasta se deve colocar
+os txt que se deseja que se unam em um unico arwuivo; contem o script put_all_in_one, que deve ser 
+executado dentro desta pasta; e contem o arquivo_unico, que é onde serão destinados todos os txts
+que estiverem na pasta all.
