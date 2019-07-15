@@ -1,1 +1,20 @@
-c�digo testado e aprovado no python 2.7
+código testado e aprovado no python 2.7
+
+Historico: "colocar a necessidade que fez surgir os dois scripts", no final de 2015
+
+
+generate_by_names_from_list contém o a pasta generador e os arquivos do kit
+que pode ser customizado. Basicamente, pega os nomes da lista no arquivo lista,
+e dentro da pasta arquivos, cria pdfs "vazios" com os nomes que estão na lista.
+O nome original desse script era "hsvpython" que agora e o nome geral do projeto.
+contem a pasta arquivos, onde serao gerados os arquivos; o script generator, que pode ser adaptado
+conforme a necessidade do usuário; o arquivo pdf, com um conteudo qualuqer, que vai ser copiado
+e criado novamente e renomeado conforme com cada nome da lista; e o arwuivo lista, com nomes standard
+apenas para um teste inicial - estes nomes devem ser alterados conforme a necessidade do usuario.
+O Script pode ser alterado, para ao inves de pdf, gerar outros formatos de arwuivo. O objetifo é criar
+arquivos com nomes diferentes - não é um script para alteração de conteudo de arquivos.
+
+
+
+all_in_one: une todos os arquivos txt em um unico arquivo. Objeitvo é facilitar, para nao ser
+necessario dar ctrl C em cada arquivo manualmente e ctrl V no arwuivo de destino, manualmente.
