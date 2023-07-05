@@ -1,5 +1,5 @@
 # uniteAllTextFilesInOne
-This script generates sames files with different names according a given list.
+This script generates sames files with different names according a given list. It also creates a directory called 'result/', where it will place the files just created.
 
 INSTRUCTIONS
 Put the .pdf file, the samples txt list and the script at same directory, and just execute the script.
@@ -11,7 +11,7 @@ sampleList.txt
  Strawberry
  Blueberry'
 
-After run, the script will make, in this case, three identical files, but with different names:
+After run, the script will generates, in this case, three identical files ((inside the directory 'result/'), with different names:
 Raspberry.pdf
 Strawberry.pdf
 Blueberry.pdf
