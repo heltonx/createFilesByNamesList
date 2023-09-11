@@ -11,6 +11,8 @@ sampleList.txt
  Strawberry
  Blueberry'
 
+---
+
 After run, the script will generates, in this case, three identical files ((inside the directory 'result/'), with different names:
 Raspberry.pdf
 Strawberry.pdf
