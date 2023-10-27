@@ -2,7 +2,7 @@
 This script generates identic files with different names according a list provided by the user. It also creates a directory called 'result/', where it will place the files just created.
 
 INSTRUCTIONS
-Put the .pdf file, the samples txt list and the script at same directory, and just execute the script.
+Put the .pdf file, the samples txt list and the script at same directory, and just execute the script
 
 EXAMPLE:
 
