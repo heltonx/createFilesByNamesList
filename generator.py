@@ -13,5 +13,5 @@ arrayNames = [line.rstrip() for line in open('sampleList.txt')]
 sumNames = len(arrayNames)
 
 for i in range (sumNames):
-	joiner ='result/'+arrayNames[i]+'.pdf'
-	shutil.copyfile(FILE_TO_REPLICATE,joiner)
+	joiner = 'result/'+arrayNames[i]+'.pdf'
+	shutil.copyfile(FILE_TO_REPLICATE, joiner)
