@@ -1,3 +1,5 @@
+Last test: January 8 2024 21:55
+
 # uniteAllTextFilesInOne
 This script generates identic files with different names according a list provided by the user. It also creates a directory called 'result/', where it will place the files just created.
 
@@ -19,7 +21,10 @@ Strawberry.pdf
 Blueberry.pdf
 
 OBSERVATIONS:
-#Tested at Windows 10 (Python 3.11.2) and Xubuntu (Ubuntu 22.04.1 LTS, Python 3.10.6)
+#Tested at: 
+Windows 11 (Python 3.11.2)
+Windows 10 (Python 3.11.2)
+Xubuntu (Ubuntu 22.04.1 LTS, Python 3.10.6)
 
 .....
 old 'hsvpython'
